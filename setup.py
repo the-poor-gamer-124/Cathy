@@ -28,5 +28,5 @@ setup(
         'discord.py==0.16.12',
         'requests',
     ],
-    python_requires='<3.7',
+    python_requires='<3.5.3',
 )
